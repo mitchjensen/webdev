@@ -1,0 +1,19 @@
+.header-secondary {
+    background-color: #edf6f9;
+}
+
+main {
+    /*background-color: #ffddd2;*/
+    background: rgb(0,109,119);
+    background: linear-gradient(180deg, rgba(0,109,119,1) 0%, rgba(131,197,190,1) 17%, rgba(237,246,249,1) 29%); 
+}
+
+.content-section {
+    /* background-image: url('https://images.unsplash.com/photo-1546019170-f1f6e46039f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80'); */
+    background: rgb(0,109,119);
+    background: linear-gradient(0deg, rgba(0,109,119,1) 0%, rgba(131,197,190,1) 47%, rgba(237,246,249,1) 100%); 
+}
+
+.input-group {
+    width: 50%;
+}
